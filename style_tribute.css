@@ -1,0 +1,31 @@
+body {
+    font-family: 'Raleway', sans-serif;
+    color: #1b1717;
+}
+
+#main {
+    background-color: #eeebdd;
+    border-radius: 5px;
+    text-align: center;
+}
+
+#img-div {
+    background-color: azure;
+    border-radius: 5px;
+     
+}
+
+#image {
+    display: block;
+    margin: auto;
+    width: 80%;
+    height: auto;
+    padding-top: 5vmax;
+    border-radius: 5px;
+    
+}
+
+#img-caption {
+    margin-top: 0;
+    padding-bottom: 2vmax;
+}
