@@ -4,14 +4,16 @@ body {
 }
 
 #main {
-    background-color: #eeebdd;
+    background-color: #e9896a;
     border-radius: 5px;
     text-align: center;
 }
 
 #img-div {
-    background-color: azure;
+    background-color: #f8f5f1;
     border-radius: 5px;
+    max-width: 96vw;
+    margin:auto;
      
 }
 
