@@ -21,7 +21,7 @@ body {
 #image {
     display: block;
     margin: auto;
-    width: 80%;
+    max-width: 100%;
     height: auto;
     padding-top: 5vmax;
     border-radius: 5px;
