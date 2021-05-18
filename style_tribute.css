@@ -5,6 +5,7 @@ body {
 
 #main {
     background-color: #e9896a;
+    padding: 3vh;
     border-radius: 5px;
     text-align: center;
 }
@@ -30,4 +31,16 @@ body {
 #img-caption {
     margin-top: 0;
     padding-bottom: 2vmax;
+}
+
+#tribute-info ul li{
+    width: 80vw;
+    margin: auto;
+    text-align: left;
+    margin: 16px;
+    
+}
+
+#final {
+    margin-top: 10vh;
 }
